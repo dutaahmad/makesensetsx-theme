@@ -24,5 +24,9 @@
 		"name": "Nahdi Duta Ahmad",
 		"email": "dutaahmadtefur@gmail.com",
 		"url": "https://github.com/dutaahmad"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dutaahmad/makesensetsx-theme.git"
 	}
 }
