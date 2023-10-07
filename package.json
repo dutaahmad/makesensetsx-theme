@@ -1,0 +1,21 @@
+{
+  "name": "makesensetsx-theme",
+  "displayName": "MakeSenseTSX Theme",
+  "description": "A Simple Yet Make Sense .tsx focused color theme, inspired by Nahdi Duta Ahmad's OCD, GitHub Dark Theme Default and Developer's Theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MakeSenseTSX Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MakeSenseTSX Theme-color-theme.json"
+      }
+    ]
+  }
+}
