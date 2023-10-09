@@ -2,9 +2,9 @@
 	"name": "makesensetsx-theme",
 	"displayName": "MakeSenseTSX Theme",
 	"description": "A Simple Yet Make Sense .tsx focused color theme, inspired by Nahdi Duta Ahmad's OCD, GitHub Dark Theme Default and Developer's Theme.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "NAHDIDUTAAHMAD",
-	"icon": "https://previews.dropbox.com/p/thumb/ACDazZSnLmwjut5aZByOcytPexNnsYvAHLKxIGEvSf9JSVToQZ2RwMGfncPFsLI3AVBE28rFaWEJI-OEHEEiOLN2DOI78w0LwRDw44LOCgq9s1SrFe4SgMZe8fnVW40TEy-fZo9-lAxLzBhcwE812qPTkrg_StPFA0aqzLra5jOC2UD6Tl_c8NGFqYMOmq3FShlqR3Y8ao3xW9LChjTaDU1Ua8OiHJglQZa1InLD2AayIZjqwi6bQeyWrp2B0cskLargUXy-xaib_NPeX18uzRexf1Hjvt4PdtF2_S3JfgKLAHpxYK4UGzQUjgvBeoTqMUH5AQ5DxgHa2yyzVH-I552F/p.png",
+	"icon": "logo.png",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.83.0"
