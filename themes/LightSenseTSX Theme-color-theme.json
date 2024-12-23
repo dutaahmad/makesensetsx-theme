@@ -1,5 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
+    "name": "LightSenseTSX Theme",
     "type": "light",
     "colors": {
         "actionBar.toggledBackground": "#dddddd",

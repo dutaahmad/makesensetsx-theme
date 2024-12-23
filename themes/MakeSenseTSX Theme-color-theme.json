@@ -1,5 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
+	"name": "MakeSenseTSX Theme",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBorder": "#f78166",
