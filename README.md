@@ -28,7 +28,7 @@
 1. Open Visual Studio Code.
 2. Click on the gear icon (⚙️) at the bottom of the Activity Bar on the side of the window.
 3. Choose "Color Theme."
-4. Select "MakeSenseTSX Theme" from the list.
+4. Select "MakeSenseTSX Theme" for dark theme or "LightSenseTSX Theme" for light theme.
 
 ## Author
 
