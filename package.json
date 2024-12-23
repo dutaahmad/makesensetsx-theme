@@ -18,6 +18,11 @@
 				"label": "MakeSenseTSX Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/MakeSenseTSX Theme-color-theme.json"
+			},
+			{
+				"label": "LightSenseTSX Theme",
+				"uiTheme": "vs",
+				"path": "./themes/LightSenseTSX Theme-color-theme.json"
 			}
 		]
 	},
