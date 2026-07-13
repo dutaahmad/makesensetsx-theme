@@ -1,0 +1,7 @@
+id = "makesensetsx"
+name = "MakeSenseTSX Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Nahdi Duta Ahmad <dutaahmadtefur@gmail.com>"]
+description = "A simple yet make-sense TSX-focused color theme for Zed, inspired by GitHub Dark Theme and Developer's Theme."
+repository = "https://github.com/dutaahmad/makesensetsx-theme"
